@@ -1,0 +1,72 @@
+.bg{
+    background-image: url(../images/retroCity5.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.titlebg{
+    background-image: url(../images/RetroButton.png);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin: 20px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.txtbg{
+    background-image: url(../images/RetroButton.png);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.txtfieldbg{
+    background-image: url(../images/RetroButton.png);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-color: transparent;
+    border: none;
+}
+.resultbg{
+    background-color: whitesmoke;
+    opacity: 80%;
+    /* padding: 2rem; */
+    
+}
+@font-face{
+    font-family: "sabo-filled";
+    src: url(../fonts/Sabo-Filled.otf);;
+}
+
+.sabo{
+    font-family: "sabo-filled";
+    font-size: 40px;
+    color: #1E7E01;
+}
+.sabotitle{
+    font-family: "sabo-filled";
+    font-size: 60px;
+    color: #1E7E01;
+}
+
+.saboResult{
+    font-family: "sabo-filled";
+    font-size: 40px;
+    color: #1E7E01;
+    padding-top: 10px;
+}
+
+.margin{
+ margin: 10px;
+}
+
